@@ -10,3 +10,21 @@ C:\Mascotafeliz\Mascota.App\Mascota.App.Persistencia\bin\Debug\netstandard2.1\Ma
 C:\Mascotafeliz\Mascota.App\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.csproj.CopyComplete
 C:\Mascotafeliz\Mascota.App\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.dll
 C:\Mascotafeliz\Mascota.App\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.csprojAssemblyReference.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.AssemblyInfoInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.AssemblyInfo.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.csproj.CoreCompileInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\bin\Debug\netstandard2.1\Mascota.App.Persistencia.deps.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\bin\Debug\netstandard2.1\Mascota.App.Persistencia.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\bin\Debug\netstandard2.1\Mascota.App.Persistencia.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\bin\Debug\netstandard2.1\Mascota.App.Dominio.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\bin\Debug\netstandard2.1\Mascota.App.Dominio.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.csprojAssemblyReference.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.AssemblyInfoInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.AssemblyInfo.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.csproj.CoreCompileInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.csproj.CopyComplete
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Persistencia\obj\Debug\netstandard2.1\Mascota.App.Persistencia.pdb

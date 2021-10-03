@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Persistencia\\Mascota.App.Persistencia.csproj": {}
+    "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Persistencia\\Mascota.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj": {
+    "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj",
+        "projectUniqueName": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj",
         "projectName": "Mascota.App.Dominio",
-        "projectPath": "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\CHRISTIAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Dominio\\obj\\",
+        "projectPath": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CHRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -57,17 +57,17 @@
         }
       }
     },
-    "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Persistencia\\Mascota.App.Persistencia.csproj": {
+    "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Persistencia\\Mascota.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Persistencia\\Mascota.App.Persistencia.csproj",
+        "projectUniqueName": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Persistencia\\Mascota.App.Persistencia.csproj",
         "projectName": "Mascota.App.Persistencia",
-        "projectPath": "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Persistencia\\Mascota.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\CHRISTIAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Persistencia\\obj\\",
+        "projectPath": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Persistencia\\Mascota.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CHRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj": {
-                "projectPath": "C:\\Mascotafeliz\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj"
+              "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj": {
+                "projectPath": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Desarrollo de Software\\Mascota\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj"
               }
             }
           }
@@ -94,6 +94,10 @@
         "netstandard2.1": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
               "version": "[5.0.0, )"
             },

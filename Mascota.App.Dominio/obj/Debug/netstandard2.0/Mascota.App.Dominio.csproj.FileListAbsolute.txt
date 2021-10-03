@@ -7,3 +7,21 @@ C:\Mascotafeliz\Mascota.App\Mascota.App.Dominio\bin\Debug\netstandard2.0\Mascota
 C:\Mascotafeliz\Mascota.App\Mascota.App.Dominio\bin\Debug\netstandard2.0\Mascota.App.Dominio.pdb
 C:\Mascotafeliz\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.dll
 C:\Mascotafeliz\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\bin\Debug\netstandard2.0\Mascota.App.Dominio.deps.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\bin\Debug\netstandard2.0\Mascota.App.Dominio.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\bin\Debug\netstandard2.0\Mascota.App.Dominio.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.csprojAssemblyReference.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.AssemblyInfoInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.AssemblyInfo.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.csproj.CoreCompileInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\MascotaFeliz\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\bin\Debug\netstandard2.0\Mascota.App.Dominio.deps.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\bin\Debug\netstandard2.0\Mascota.App.Dominio.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\bin\Debug\netstandard2.0\Mascota.App.Dominio.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.csprojAssemblyReference.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.AssemblyInfoInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.AssemblyInfo.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.csproj.CoreCompileInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Desarrollo de Software\Mascota\Mascota.App.Dominio\obj\Debug\netstandard2.0\Mascota.App.Dominio.pdb

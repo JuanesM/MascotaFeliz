@@ -1,0 +1,22 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.PetModel
+@{
+}
+<h1>Listado de Mascotas</h1>
+
+<table class="table">
+    @foreach (var pet in Model.Pets)
+    {
+        <tr>
+            <td>@pet.Id</td>
+            <td>@pet.Nombre</td>
+            <td>@pet.Tipo</td>
+            <td>@pet.Temperatura</td>
+            <td>@pet.Peso</td>
+            <td>@pet.FrecuenciaRespiratoria</td>
+            <td>@pet.FrecuenciaCardiaca</td>
+            <td>@pet.EstadoAnimo</td>
+
+        </tr>
+    }
+</table>

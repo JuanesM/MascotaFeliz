@@ -1,0 +1,16 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.VisitaModel
+@{
+}
+<h1>Listado de Visitas</h1>
+
+<table class="table">
+    @foreach (var visita in Model.Visitas)
+    {
+        <tr>
+            <td>@visita.Recomendaciones</td>
+            <td>@visita.FechaVisita</td>
+
+        </tr>
+    }
+</table>
