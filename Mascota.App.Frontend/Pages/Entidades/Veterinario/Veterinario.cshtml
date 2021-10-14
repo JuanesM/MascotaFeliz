@@ -1,0 +1,42 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.VeterinarioModel
+@{
+}
+<div class="container text-center">
+<h2>Lista de Veterinarios</h2>
+</div>
+<table class="table">
+         <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Apellidos</th>
+      <th scope="col">Identificacion</th>
+      <th scope="col">Telefono</th>
+      <th scope="col">Tarjeta Profesional</th>
+    </tr>
+    @foreach (var veterinario in Model.Veterinarios)
+    {
+        <tr>
+
+            <td>@veterinario.Id</td>
+            <td>@veterinario.Nombre</td>
+            <td>@veterinario.Apellidos</td>
+            <td>@veterinario.Identificacion</td>
+            <td>@veterinario.Telefono</td>
+            <td>@veterinario.TarjetaProfesional</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./DetailsVet" asp-route-veterinarioId="@veterinario.Id">
+                    <i class="fas fa-info-circle fa-lg"></i </a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./EditVet" asp-route-veterinarioId="@veterinario.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+            </td>
+        </tr>
+    }
+
+
+</table>
+<a asp-page=".\EditVet" class="btn btn-primary">Adicionar Veterinario</a>

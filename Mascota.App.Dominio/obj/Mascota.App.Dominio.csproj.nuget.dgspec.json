@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj": {}
+  },
+  "projects": {
+    "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj",
+        "projectName": "Mascota.App.Dominio",
+        "projectPath": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Mascota.App\\Mascota.App.Dominio\\Mascota.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "F:\\Mis Documentos\\Universidad\\Misión TIC\\Ciclo 3\\Mascota.App\\Mascota.App.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

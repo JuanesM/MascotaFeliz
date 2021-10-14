@@ -1,0 +1,18 @@
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\bin\Debug\netstandard2.1\Mascota.App.Dominio.deps.json
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\bin\Debug\netstandard2.1\Mascota.App.Dominio.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\bin\Debug\netstandard2.1\Mascota.App.Dominio.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.csprojAssemblyReference.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.AssemblyInfoInputs.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.AssemblyInfo.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.csproj.CoreCompileInputs.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\bin\Debug\netstandard2.1\Mascota.App.Dominio.deps.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\bin\Debug\netstandard2.1\Mascota.App.Dominio.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\bin\Debug\netstandard2.1\Mascota.App.Dominio.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.csprojAssemblyReference.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.AssemblyInfoInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.AssemblyInfo.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.csproj.CoreCompileInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Dominio\obj\Debug\netstandard2.1\Mascota.App.Dominio.pdb

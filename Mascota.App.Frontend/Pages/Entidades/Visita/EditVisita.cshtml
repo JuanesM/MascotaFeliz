@@ -1,0 +1,41 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.EditVisitaModel
+@{
+}
+<h2> Edición de la Visita : @Model.Visita.Id</h2>
+<form method="post">
+    <input type="hidden" asp-for="Visita.Id" />
+
+    <div class="form-group">
+        <label asp-for="Visita.Pet"></label>
+        <input asp-for="Visita.Pet" class="form-control">
+        <span class="text-danger" asp-validation-for="Visita.Pet"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Visita.Veterinario"></label>
+        <input asp-for="Visita.Veterinario" class="form-control">
+        <span class="text-danger" asp-validation-for="Visita.Veterinario"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Visita.FechaVisita"></label>
+        <input asp-for="Visita.FechaVisita" class="form-control">
+        <span class="text-danger" asp-validation-for="Visita.FechaVisita"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Visita.Recomendaciones"></label>
+        <input asp-for="Visita.Recomendaciones" class="form-control">
+        <span class="text-danger" asp-validation-for="Visita.Recomendaciones"></span>
+
+    </div>
+    
+
+
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+<br>
+
+<a asp-page="./Visita" class="btn-default">Lista de Visita</a>

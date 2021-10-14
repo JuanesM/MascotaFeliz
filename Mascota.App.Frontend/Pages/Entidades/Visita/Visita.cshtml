@@ -1,0 +1,39 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.VisitaModel
+@{
+}
+<div class="container text-center">
+<h2>Lista de Visitas</h2>
+</div>
+<table class ="table">
+         <tr>
+      <th scope="col">#</th>
+      <th scope="col"> Mascota</th>
+      <th scope="col">Veterinario</th>
+      <th scope="col">Recomendaciones</th>
+      <th scope="col">Fecha de Visita</th>
+    </tr>
+    @foreach (var visita in Model.Visitas)
+    {
+       <tr>
+           <td>@visita.Id</td>
+           <td>@visita.Pet</td>
+           <td>@visita.Veterinario</td>
+           <td>@visita.Recomendaciones</td>
+           <td>@visita.FechaVisita</td>
+       <td>
+                <a class="btn btn-primary table-btn" asp-page="./DetailsVisita" asp-route-visitaId="@visita.Id">
+                    <i class="fas fa-info-circle fa-lg"></i </a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./EditVisita" asp-route-visitaId="@visita.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+            </td>
+        </tr>
+    }
+
+
+</table>
+<a asp-page=".\EditVisita" class="btn btn-primary">Adicionar Visita</a>

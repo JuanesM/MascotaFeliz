@@ -1,0 +1,45 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.PetModel
+@{
+}
+<div class="container text-center">
+<h2>Lista de Mascotas</h2>
+</div>
+<table class="table">
+         <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Tipo</th>
+      <th scope="col">Temperatura</th>
+      <th scope="col">Peso</th>
+      <th scope="col">Frecuencia Respiratoria</th>
+      <th scope="col">Frecuencia Cardiaca</th>
+      <th scope="col">Estado De Animos</th>
+    </tr>
+    @foreach (var pet in Model.Pets)
+    {
+        <tr>
+            <td>@pet.Id</td>
+            <td>@pet.Nombre</td>
+            <td>@pet.Tipo</td>
+            <td>@pet.Temperatura</td>
+            <td>@pet.Peso</td>
+            <td>@pet.FrecuenciaRespiratoria</td>
+            <td>@pet.FrecuenciaCardiaca</td>
+            <td>@pet.Estado_Animo</td>
+<td>
+            <a class="btn btn-primary table-btn" asp-page="./DetailsPet" asp-route-petId="@pet.Id">
+            <i class="fas fa-info-circle fa-lg"></i </a>
+        </td>
+
+        <td>
+            <a class="btn btn-primary table-btn" asp-page="./EditPet" asp-route-petId="@pet.Id">
+            <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+             </a>
+        </td>
+    </tr>
+}
+
+
+</table>
+<a asp-page=".\EditPet" class="btn btn-primary">Adicionar Mascota</a>
