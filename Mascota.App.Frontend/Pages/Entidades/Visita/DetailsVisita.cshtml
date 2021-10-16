@@ -1,0 +1,18 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.DetailsVisitaModel
+@{
+}
+<h2>Id:@Model.Visita.Id</h2>
+<div>
+    Mascota: @Model.Visita.Pet
+</div>
+<div>
+    Veterinario: @Model.Visita.Veterinario
+</div>
+<div>
+    Fecha de Visita: @Model.Visita.FechaVisita
+</div>
+<div>
+    Recomendaciones: @Model.Visita.Recomendaciones
+</div>
+ <a asp-page=".\ListVisita" class="btn btn-success">Regresar</a>

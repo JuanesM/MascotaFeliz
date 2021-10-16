@@ -1,0 +1,21 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.DetailsVetModel
+@{
+}
+<h2>Id:@Model.Veterinario.Id</h2>
+<div>
+    Nombre: @Model.Veterinario.Nombre
+</div>
+<div>
+    Apellidos: @Model.Veterinario.Apellidos
+</div>
+<div>
+    Identificacion: @Model.Veterinario.Identificacion
+</div>
+<div>
+    Telefono: @Model.Veterinario.Telefono
+</div>
+<div>
+    TarjetaProfesional: @Model.Veterinario.TarjetaProfesional
+</div>
+<a asp-page=".\ListVeterinario" class="btn btn-success">Regresar</a>

@@ -1,0 +1,53 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.ListPropietarioModel
+@{
+}
+<div class="container text-center">
+<h2>Lista de Propietarios</h2>
+</div>
+
+<nav class="navbar navbar-light bg-light">
+  <form class="form-inline">
+    <input class="form-control mr-sm-2" type="text" placeholder="Buscar por nombre " asp-for="FiltroBusqueda">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" value="FiltroBusqueda">Search</button>
+  </form>
+</nav>
+<table class="table table-bordered">
+@* <table class ="table"> *@
+   <thead class="thead-dark">
+        
+     <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Apellidos</th>
+      <th scope="col">Identificacion</th>
+      <th scope="col">Telefono</th>
+      <th scope="col">Direccion</th>
+      <th scope="col">Acciones</th>
+      
+    </tr>
+    </thead>
+
+      <form method="post">
+    @foreach (var propietario in Model.Propietarios)
+    {
+        <tr>
+            <td>@propietario.Id</td>
+            <td>@propietario.Nombre</td>
+            <td>@propietario.Apellidos</td>
+            <td>@propietario.Identificacion</td>
+            <td>@propietario.Telefono</td>
+            <td>@propietario.Direccion</td>
+
+            <td>
+            <a class="btn btn-success table-btn" asp-page="./DetailsPropietario" asp-route-propietarioId="@propietario.Id">Detalle</a>
+            <a class="btn btn-primary table-btn" asp-page="./EditPropietario" asp-route-propietarioId="@propietario.Id">Editar</a> 
+            <button type="submit" class="btn btn-danger" asp-page-handler="Delete" asp-route-propietarioId="@propietario.Id">Borrar</button>
+            </td>
+
+        
+    </tr>
+}
+</form>
+</table>
+<a asp-page=".\EditPropietario" class="btn btn-success">Adicionar un Propietario</a>

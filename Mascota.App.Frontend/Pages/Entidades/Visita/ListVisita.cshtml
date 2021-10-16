@@ -1,0 +1,50 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.ListVisitaModel
+@{
+}
+
+<div class="container text-center">
+  <h2>Lista de Visitas</h2>
+</div>
+<nav class="navbar navbar-light bg-light">
+  <form class="form-inline">
+    <input class="form-control mr-sm-2" type="text" placeholder=" Busqueda por fecha" asp-for="FiltroBusqueda">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" value="FiltroBusqueda">Search</button>
+  </form>
+</nav>
+<table class="table table-bordered">
+  @* <table class ="table"> *@
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col"> Mascota</th>
+      <th scope="col">Veterinario</th>
+      <th scope="col">Recomendaciones</th>
+      <th scope="col">Fecha de Visita</th>
+      <th scope="col">Acciones</th>
+
+    </tr>
+  </thead>
+
+  <form method="post">
+  @foreach (var visita in Model.Visitas)
+  {
+    <tr>
+      <td>@visita.Id</td>
+      <td>@visita.Pet</td>
+      <td>@visita.Veterinario</td>
+      <td>@visita.Recomendaciones</td>
+      <td>@visita.FechaVisita</td>
+      <td>
+        <a class="btn btn-success table-btn" asp-page="./DetailsVisita" asp-route-visitaId="@visita.Id">Detalle </a>
+        <a class="btn btn-primary table-btn" asp-page="./EditVisita" asp-route-visitaId="@visita.Id"> Editar</a>
+        <button type="submit" class="btn btn-danger" asp-page-handler="Delete" asp-route-visitaId="@visita.Id">Borrar</button>
+        
+      </td>
+
+    </tr>
+  }
+
+</form>
+</table>
+<a asp-page=".\EditVisita" class="btn btn-success">Adicionar Visita</a>

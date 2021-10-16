@@ -1,0 +1,59 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.ListPetModel
+@{
+}
+<div class="container text-center">
+  <h2>Lista de Mascotas</h2>
+</div>
+<nav class="navbar navbar-light bg-light">
+  <form class="form-inline">
+    <input class="form-control mr-sm-2" type="text" placeholder="Buscar por nombre " asp-for="FiltroBusqueda">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" value="FiltroBusqueda">Search</button>
+  </form>
+</nav>
+<table class="table table-bordered">
+  @* <table class ="table"> *@
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Tipo</th>
+      <th scope="col">Temperatura</th>
+      <th scope="col">Peso</th>
+      <th scope="col">F Respiratoria</th>
+      <th scope="col">F Cardiaca</th>
+      <th scope="col">Estado Animo</th>
+      <th scope="col">Acciones</th>
+
+    </tr>
+  </thead>
+
+    <form method="post">
+
+  @foreach (var pet in Model.Pets)
+  {
+    <tr>
+      <td>@pet.Id</td>
+      <td>@pet.Nombre</td>
+      <td>@pet.Tipo</td>
+      <td>@pet.Temperatura</td>
+      <td>@pet.Peso</td>
+      <td>@pet.FrecuenciaRespiratoria</td>
+      <td>@pet.FrecuenciaCardiaca</td>
+      <td>@pet.Estado_Animo</td>
+
+      <td>
+        <a class="btn btn-success table-btn" asp-page="./DetailsPet" asp-route-petId="@pet.Id">Detalle </a>
+        <a class="btn btn-primary table-btn" asp-page="./EditPet" asp-route-petId="@pet.Id"> Editar</a>
+        @* <a class="btn btn-danger table-btn" asp-page="./DeletePet" asp-route-petId="@pet.Id">Eliminar</a> *@
+        <button type="submit" class="btn btn-danger" asp-page-handler="Delete" asp-route-petId="@pet.Id">Borrar</button>
+      </td>
+
+
+    </tr>
+  }
+  </form>
+
+
+</table>
+<a asp-page=".\EditPet" class="btn btn-success">Adicionar Mascota</a>

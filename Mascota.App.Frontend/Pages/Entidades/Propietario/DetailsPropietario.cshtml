@@ -1,0 +1,23 @@
+﻿@page
+@model Mascota.App.Frontend.Pages.DetailsPropietarioModel
+@{
+}
+<h2>Detalles del Propietario</h2>
+<h2>Id:@Model.Propietario.Id</h2>
+<div>
+    Nombre: @Model.Propietario.Nombre
+</div>
+<div>
+    Apellidos: @Model.Propietario.Apellidos
+</div>
+<div>
+    Identificacion: @Model.Propietario.Identificacion
+</div>
+<div>
+    Telefono: @Model.Propietario.Telefono
+</div>
+<div>
+    Direccion: @Model.Propietario.Direccion
+</div>
+
+<a asp-page=".\ListPropietario" class="btn btn-success">Regresar</a>

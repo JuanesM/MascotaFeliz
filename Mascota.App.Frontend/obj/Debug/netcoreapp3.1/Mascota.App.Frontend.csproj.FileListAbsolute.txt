@@ -1,0 +1,186 @@
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.exe
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.deps.json
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.runtimeconfig.json
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.runtimeconfig.dev.json
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.Views.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.Views.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Dominio.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Persistencia.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Persistencia.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Dominio.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.csprojAssemblyReference.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.AssemblyInfoInputs.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.AssemblyInfo.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.csproj.CoreCompileInputs.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorAssemblyInfo.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorAssemblyInfo.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.TagHelpers.input.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.TagHelpers.output.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorCoreGenerate.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.Views.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.csproj.CopyComplete
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Mascota.App.Frontend.StaticWebAssets.Manifest.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Mascota.App.Frontend.StaticWebAssets.xml
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.dll
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.pdb
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.genruntimeconfig.cache
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Propietario\ListPropietario.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Propietario\DetailsPropietario.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Propietario\EditPropietario.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Veterinario\DetailsVet.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Veterinario\EditVet.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Veterinario\ListVeterinario.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Pet\DetailsPet.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Pet\EditPet.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Pet\ListPet.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Visita\DetailsVisita.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Visita\EditVisita.cshtml.g.cs
+C:\MascotaFeliz\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Visita\ListVisita.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.exe
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.deps.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.runtimeconfig.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.runtimeconfig.dev.json
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.Views.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Frontend.Views.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Dominio.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Persistencia.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Persistencia.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\bin\Debug\netcoreapp3.1\Mascota.App.Dominio.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.csprojAssemblyReference.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.AssemblyInfoInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.AssemblyInfo.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.csproj.CoreCompileInputs.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorAssemblyInfo.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorAssemblyInfo.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.TagHelpers.input.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.TagHelpers.output.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorCoreGenerate.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Pet\DetailsPet.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Pet\EditPet.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Pet\ListPet.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Propietario\DetailsPropietario.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Propietario\EditPropietario.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Propietario\ListPropietario.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Veterinario\DetailsVet.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Veterinario\EditVet.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Veterinario\ListVeterinario.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Visita\DetailsVisita.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Visita\EditVisita.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Entidades\Visita\ListVisita.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorTargetAssemblyInfo.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.RazorTargetAssemblyInfo.cs
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.Views.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.csproj.CopyComplete
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Mascota.App.Frontend.StaticWebAssets.Manifest.cache
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Mascota.App.Frontend.StaticWebAssets.xml
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.dll
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.pdb
+F:\Mis Documentos\Universidad\Misión TIC\Ciclo 3\Mascota.App\Mascota.App.Frontend\obj\Debug\netcoreapp3.1\Mascota.App.Frontend.genruntimeconfig.cache
